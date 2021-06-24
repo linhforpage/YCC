@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCC.WebApp", "YCC.WebApp\YCC.WebApp.csproj", "{8FD9D7C9-BE85-4193-A74B-58B72D397A4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCC.Data", "YCC.Data\YCC.Data.csproj", "{2F3A72DD-C2DE-41A8-823E-F1E82EA1F6C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCC.Application", "YCC.Application\YCC.Application.csproj", "{F10E783B-446E-4389-A66E-BB5EC6EDC29D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8FD9D7C9-BE85-4193-A74B-58B72D397A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FD9D7C9-BE85-4193-A74B-58B72D397A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FD9D7C9-BE85-4193-A74B-58B72D397A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3A72DD-C2DE-41A8-823E-F1E82EA1F6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3A72DD-C2DE-41A8-823E-F1E82EA1F6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3A72DD-C2DE-41A8-823E-F1E82EA1F6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3A72DD-C2DE-41A8-823E-F1E82EA1F6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10E783B-446E-4389-A66E-BB5EC6EDC29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10E783B-446E-4389-A66E-BB5EC6EDC29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10E783B-446E-4389-A66E-BB5EC6EDC29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10E783B-446E-4389-A66E-BB5EC6EDC29D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
