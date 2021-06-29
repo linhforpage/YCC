@@ -15,11 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YCC.ViewModels", "YCC.ViewM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YCC.BackendApi", "YCC.BackendApi\YCC.BackendApi.csproj", "{D4877940-1786-43D7-AE4F-2A1129758BCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCC.AdminApp", "YCC.AdminApp\YCC.AdminApp.csproj", "{DBC9FEEE-914D-45C2-9358-510F79A45254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YCC.AdminApp", "YCC.AdminApp\YCC.AdminApp.csproj", "{DBC9FEEE-914D-45C2-9358-510F79A45254}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hosts", "Hosts", "{518781F3-9D69-4878-BA75-440E2B34FC84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCC.ApiIntegration", "YCC.ApiIntegration\YCC.ApiIntegration.csproj", "{3DB11279-7425-431B-BF0D-D44E133FF063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YCC.ApiIntegration", "YCC.ApiIntegration\YCC.ApiIntegration.csproj", "{3DB11279-7425-431B-BF0D-D44E133FF063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
